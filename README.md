@@ -7,8 +7,9 @@
 - **Projects:** Working on data analysis projects and building machine learning models
 
 ### 🌱 Currently Learning:
-- Advanced Machine Learning Algorithms
-- Data Visualization Techniques
+-  Data Visualization Techniques
+-  Advanced Machine Learning Algorithms
+
 
 ### 👯 Let’s Collaborate On:
 - Data Science Projects
