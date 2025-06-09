@@ -32,5 +32,5 @@ I'm a Data Scientist and Machine Learning Engineer with a B.Sc. in Computer Scie
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/ahnaf-shahadat-taseen-1b738a242/)
+*   **LinkedIn:** [Ahnaf Shahadat Taseen](https://www.linkedin.com/in/ahnaf-shahadat-taseen-1b738a242/)
 *   **Email:** taseen2001@gmail.com
